@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> 设计模式 </category>
+          <category> 门面模式 </category>
           
       </categories>
       
@@ -38,7 +38,7 @@
       
       <categories>
           
-          <category> 设计模式 </category>
+          <category> 享元模式 </category>
           
       </categories>
       
@@ -63,7 +63,7 @@
       
       <categories>
           
-          <category> 设计模式 </category>
+          <category> 建造者模式 </category>
           
       </categories>
       
@@ -88,7 +88,7 @@
       
       <categories>
           
-          <category> 设计模式 </category>
+          <category> 抽象工厂模式 </category>
           
       </categories>
       
@@ -138,7 +138,7 @@
       
       <categories>
           
-          <category> 设计模式 </category>
+          <category> 工厂设计模式 </category>
           
       </categories>
       
@@ -163,14 +163,14 @@
       
       <categories>
           
-          <category> 单例设计模式 </category>
+          <category> 单例模式 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 设计模式 </tag>
+            <tag> 单例模式 </tag>
             
         </tags>
       
